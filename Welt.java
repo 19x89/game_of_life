@@ -1,5 +1,11 @@
 package game_of_life;
 
+/*
+Diese Klasse legt für jede einzelne Zelle in der Oberfläche fest, 
+ob das lebendig oder tot ist, 
+wie auch deklariert Methoden für die Zellensteuerung.
+*/
+
 class Welt {
     public final int MXG;
     private Wesen[][] felder;
