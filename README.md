@@ -3,3 +3,5 @@ Mein Beispiel von einem bekannten Programm (Game of Life).
 
 ---
 Das habe ich als Selbstaufgabe in meinem Kurs gemacht.
+
+Zweck: Kenntnisse von (mehrere nebenläufige) Threads zu überprüfen.
