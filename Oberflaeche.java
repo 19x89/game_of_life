@@ -2,6 +2,12 @@ package game_of_life;
 
 import java.awt.*;
 
+/*
+Diese Klasse erzeugt eine Oberfläche mit X * X Zellen, 
+in jeder Zelle erzeugt einen Knopf, 
+wie auch deklariert eine Methode zur Knopf-Aktualisierung.
+*/
+
 public class Oberflaeche extends BaseFrame {
     Welt welt;
     Panel p;
