@@ -2,6 +2,11 @@ package game_of_life;
 
 import java.util.Random;
 
+/*
+Eine abstrakte Klasse, die Grundfunktionen von jede 
+(lebendige oder tote) Zelle implementiert.
+*/
+
 abstract class Wesen extends Thread {
     private static Random random = new Random();
     protected Welt welt;
