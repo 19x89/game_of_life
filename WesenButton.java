@@ -3,6 +3,10 @@ package game_of_life;
 import java.awt.*;
 import java.awt.event.*;
 
+/*
+Diese Klasse bietet die Funktionalität für die Steuerung jede einzelne Zelle.
+*/
+
 class WesenButton extends Button implements ActionListener {
     private Welt welt;
     private int lPos;
