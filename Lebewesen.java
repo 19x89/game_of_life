@@ -1,5 +1,9 @@
 package game_of_life;
 
+/*
+Implementierung von einer lebendigen Zelle.
+*/
+
 class Lebewesen extends Wesen {
     Lebewesen( Welt welt, int lPos, int bPos ) {
         super( welt, lPos, bPos );
